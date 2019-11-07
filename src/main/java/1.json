@@ -1,0 +1,8 @@
+{
+	"comercio": {
+		"id": 0,
+		"likes": 2,
+		"nombre": "Restaurante Casa Pedro"
+	},
+	"mensaje": "El like ha sido creado con éxito!"
+}
